@@ -7,7 +7,8 @@ Nim : 312210714
 
 Kelas : TI.22.C.9
 
-Latihan 1 
+# Latihan 1 
+
 Ubah kode di bawah ini menjadi fungsi menggunakan lambda
 
 ``` pyhton
