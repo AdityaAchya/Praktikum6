@@ -63,7 +63,8 @@ print(lambdaD("Raffi", "Rasyad"))
 
 3. Hasil setelah di run
 
-<img width="401" alt="foto 2" src="https://user-images.githubusercontent.com/115473988/205491991-c9cb1bcd-8235-403c-8447-d7b786bc4294.png">
+![Latihan Praktikum 6](https://user-images.githubusercontent.com/123864099/217021947-e8b14bbe-2099-496a-96e9-5200eb95f3ef.PNG)
+
 
 # Tugas Praktikum
 
@@ -204,13 +205,12 @@ while True:
 
 3. jalankan program edit / hapus data sesuka kita, dengan memasukan perintah perintah yang tertera seperti contoh berikut :
 
-<img width="766" alt="foto 4" src="https://user-images.githubusercontent.com/115473988/205492248-6311c90a-5c4f-4e8c-b673-85ea811db71d.png">
+![Praktikum6 1](https://user-images.githubusercontent.com/123864099/217022014-781a0139-029d-47cf-b0e5-b1adeb1d66a2.PNG)
 
-<img width="596" alt="foto 5 1" src="https://user-images.githubusercontent.com/115473988/205492254-8f5320b7-3bbf-4a14-922c-8eacca42c125.png">
+![Praktikum6 2](https://user-images.githubusercontent.com/123864099/217022134-b2da319f-ef41-47df-8a1c-b2394870e228.PNG)
 
-<img width="623" alt="foto 5" src="https://user-images.githubusercontent.com/115473988/205492256-45f7f844-0e8d-4cd2-a276-d215da5d99c3.png">
+![Praktikum6 3](https://user-images.githubusercontent.com/123864099/217022257-faa318de-d025-45a9-ba6a-6bdfbcf75870.PNG)
 
-<img width="625" alt="foto 6" src="https://user-images.githubusercontent.com/115473988/205492259-f442047a-1d58-4ca5-9513-43ec379cc375.png">
 
 ## TERIMA KASIH
 ### ADITYA ACHYA ANANTA NUR - 312210714 - TI.22.C. - TEKNIK INFORMATIKA - UNIVERSITAS PELITA BANGSA
